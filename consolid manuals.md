@@ -33,7 +33,7 @@ git personal train here
 Чтобы вставить изображение, вводи следующее:
 ![текст, если изображение не загрузится](ссылка на файл изображения)
 
-![сова осталась в папке для 12.10.2021](owl.jpeg)
+![сова осталась в репозитории для 12.10.2021](owl.jpeg)
 
 ## Ссылки ##
 
@@ -57,6 +57,18 @@ This is [an example][ref] reference-style link.
 
 ## Таблицы ##
 
+it`s time of mini-excel here.
+
+Column A | Column B | Column C
+---------- | ---------- | ---------- |
+Row1 | Where are vertical borders? | No |
+No reverse slash in British keyboard! | Fuck | Why it is so unexpectedly |
+    unfriendly to coding?
+        no vertical slash either!
+
 ## Цитаты ##
 
+>Тут все просто и открыто опытным путем
+
 ## Заключение ##
+```Что надо здесь - непонятно```
