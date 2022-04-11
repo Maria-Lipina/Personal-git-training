@@ -62,7 +62,7 @@ it`s time of mini-excel here.
 Column A | Column B | Column C
 ---------- | ---------- | ---------- |
 Row1 | Where are vertical borders? | No |
-No reverse slash in British keyboard! | Fuck | Why it is so unexpectedly |
+No reverse slash in British keyboard! |  | Why it is so unexpectedly |
     unfriendly to coding?
         no vertical slash either!
 
@@ -71,4 +71,4 @@ No reverse slash in British keyboard! | Fuck | Why it is so unexpectedly |
 >Тут все просто и открыто опытным путем
 
 ## Заключение ##
-```Что надо здесь - непонятно```
+```Markdown - это прежде всего работа с текстом. Так, чтобы красиво, но попроще и без изысков. Для readme - хорошо. Если хочется чего-то посерьезнее - добро пожаловать в html, css и прочие радости javascript.```
